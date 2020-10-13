@@ -8,6 +8,7 @@ const Homepage = () => (
         <div className="content">
           <h1 className="title">HATS</h1>
           <span className="subtitle">SHOP NOW</span>
+          <h5>check</h5>
         </div>
       </div>
       <div className="menu-item">
